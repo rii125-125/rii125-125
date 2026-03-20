@@ -6,3 +6,6 @@ I'm aiming to become a full-stack engineer! Nice to me too.
 [![My Stack](https://skillicons.dev/icons?i=java,html,css,git,github)](https://skillicons.dev)
 
 I am currently learning various languages.
+
+## Learning
+[![My Learning Stack](https://skillicons.dev/icons?i=cs,py,c,cpp,rust,js,ts)](https://skillicons.dev)
