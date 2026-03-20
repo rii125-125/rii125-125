@@ -9,3 +9,6 @@ I am currently learning various languages.
 
 ## Learning
 [![My Learning Stack](https://skillicons.dev/icons?i=cs,py,c,cpp,rust,js,ts)](https://skillicons.dev)
+
+## The editor I use
+[![My Use Editor](https://skillicons.dev/icons?i=vscode,neovim,idea)](https://skillicons.dev)
