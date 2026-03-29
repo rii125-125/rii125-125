@@ -3,7 +3,7 @@ I'm rii125-125.I'm newbie engineer.
 I'm aiming to become a full-stack engineer! Nice to me too.
 
 ## Technology Stack
-[![My Stack](https://skillicons.dev/icons?i=java,html,css,git,github)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=java,html,css,git)](https://skillicons.dev)
 
 I am currently learning various languages.
 
